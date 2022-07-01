@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688324632013",
+    "project_id": "fuel-token-007",
+    "storage_bucket": "fuel-token-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688324632013:android:df5c3e3bd57d62ded1f884",
+        "android_client_info": {
+          "package_name": "com.example.fuel_token_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688324632013-udqq8pshpgf9efu824ndhde52321h0j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpa4ao_2Obl-Qe2LOp1RyssVdoc6zLzew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688324632013-udqq8pshpgf9efu824ndhde52321h0j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
